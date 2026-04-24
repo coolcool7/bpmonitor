@@ -1,0 +1,13 @@
+{
+  "name": "web-app",
+  "version": "1.0.0",
+  "description": "A simple web application",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.22.1"
+  }
+}
